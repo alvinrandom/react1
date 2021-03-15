@@ -2,6 +2,7 @@
   "private": true,
   "devDependencies": {
     "@types/prop-types": "^15.7.3",
+    "@types/react-transition-group": "^4.4.1",
     "@types/scheduler": "^0.16.1"
   }
 }
