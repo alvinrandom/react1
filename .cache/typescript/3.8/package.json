@@ -1,0 +1,7 @@
+{
+  "private": true,
+  "devDependencies": {
+    "@types/prop-types": "^15.7.3",
+    "@types/scheduler": "^0.16.1"
+  }
+}
